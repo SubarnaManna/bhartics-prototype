@@ -1,0 +1,66 @@
+{
+    "CarList":[
+    
+        {
+            "CarName":"Hyndai Creta , Sx Executive",
+            "CarImage":"CarImages/car4.jpg",
+            "AvailableColors":["Starry Night","White","Maroon","Grey"],
+            "FuelType":"Petrol",
+            "Driving Mode":"Manual",
+            "Features":["Top Features","Air Bags","Steering Adjustment"],
+            "CurrentPrice":"14,50,384.00",
+            "OldPrice":"14,82,384.00",
+            "EMIAmount":"18,602",
+            "Discount":"32000"
+        },
+        {
+            "CarName":"Hyundai i20, Sportz",
+            "CarImage":"CarImages/car1.jpg",
+            "AvailableColors":["Starry Night","White","Maroon","Grey"],
+            "FuelType":"Petrol",
+            "Driving Mode":"Manual",
+            "Features":["Top Features","Air Bags","Steering Adjustment"],
+            "CurrentPrice":"8,35,019.00",
+            "OldPrice":"8,60,019.00",
+            "EMIAmount":"10,712",
+            "Discount":"25,000"
+            },
+        {
+            "CarName":"Hyundai i10 Nios , Sportz",
+            "CarImage":"CarImages/car2.jpg",
+            "AvailableColors":["White","Maroon","Grey"],
+            "FuelType":"Petrol",
+            "Driving Mode":"Automatic",
+            "Features":["Top Features","Air Bags","Steering Adjustment"],
+            "CurrentPrice":"7,07,082.00",
+            "OldPrice":"7,42,002.00",
+            "EMIAmount":"9,070",
+            "Discount":"35000"
+            },
+        {
+            "CarName":"Tata Safary , XZA Plus Gold",
+            "CarImage":"CarImages/car3.jpg",
+            "AvailableColors":["White","Maroon","Grey"],
+            "FuelType":"Diesel",
+            "Driving Mode":"Automatic",
+            "Features":["Top Features","Air Bags","Steering Adjustment"],
+            "CurrentPrice":"25,24,884.00",
+            "OldPrice":"25,99,884.00",
+            "EMIAmount":"32,380",
+            "Discount":"75000"
+            },
+        {
+            "CarName":"Hyundai AURA",
+            "CarImage":"CarImages/car5.jpg",
+            "AvailableColors":["Red",""],
+            "FuelType":"Petrol",
+            "Driving Mode":"Automatic",
+            "Features":["Top Features","Air Bags","Steering Adjustment"],
+            "CurrentPrice":"25,36,230.00",
+            "OldPrice":"27,23,450.00",
+            "EMIAmount":"24,000",
+            "Discount":"80000"
+            }
+
+    ]
+}

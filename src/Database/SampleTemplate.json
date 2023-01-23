@@ -1,0 +1,12 @@
+{
+    "CarName":"",
+    "CarImage":"CarImages/car5.jpg",
+    "AvailableColors":["",""],
+    "FuelType":"",
+    "Driving Mode":"",
+    "Features":["","",""],
+    "CurrentPrice":"",
+    "OldPrice":"",
+    "EMIAmount":"",
+    "Discount":""
+    }

@@ -1,0 +1,146 @@
+.car_Container{ 
+    margin:30px 0px 30px 5vw ;
+}
+.NewCarHeading{
+    font-weight: bolder;
+    color: #ff8300;
+    font-size: 30px;
+    padding: 0px 0px 12px 0px;
+}
+.Carshell{
+    background-color: #fdfd96;
+    /* background-color: #ffffb8; */
+    padding: 10px 5px;
+    display: flex;
+}
+.ModelShell{
+    width: 280px;
+    margin: 5px;
+    background-color: #fff;
+    box-shadow: 1px 1px 8px #676767;
+    border-radius: 6px;
+}
+.model{
+    width: inherit;
+    margin-bottom: -32px;
+}
+.model img{
+    width: inherit;
+    height: inherit/2;
+    border: 0.1px solid #00000075;
+    height: 170px;
+}
+.off_discount{
+    position: relative;
+    top: -170px;
+    left: 10px;
+    background-color: #26dd00;
+    padding: 2px 12px;
+    border-radius: 3px;
+    color: #fff;
+    width: fit-content;
+    font-size: 0.65rem;
+    font-family: system-ui;
+}
+.ModelDetails{
+/* background-color: #fcfcfc; */
+padding: 10px 10px;
+}
+.ModelHeadingLine{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.ModelName{
+    padding: 10px 4px 5px 4px;
+    /* color: #e67600; */
+    /* color:#eb7b05; */
+    color: darkmagenta;
+    font-size: 14px;
+    /* font-family: 'Trebuchet MS'; */
+    font-weight: 600;
+}
+.ModelName:hover{
+text-decoration: underline;
+cursor: pointer;
+}
+.ModelColorBox{
+    display: flex;
+    align-items: center;
+}
+.modelColor{
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    box-shadow: inset 0 3px 5px #676767;
+}
+.ColorName{
+    font-size: 10px !important;
+    font-family: 'system-ui','calibri';
+    padding-left: 6px;
+    font-weight: 600;
+}
+.ModelFuel{
+    font-size: 10px;
+    margin: 4px 4px 10px 4px ;
+    font-weight: 500;
+    
+}
+.keypoints{
+    display: flex;  
+}
+.features{
+    padding: 2px 6px;
+    border-radius: 12px;
+    border: 1.5px solid #e67600;
+    font-size: 10px;
+    margin: 2.5px;
+    font-weight: 500;
+}
+.Modelprice{
+    font-size: 10px;
+    font-weight: 600;
+    display: flex;
+    margin: 10px 0px 0px 0px;
+}
+.currentPrice{
+    margin-right: 40px;
+}
+.oldPrice{
+    color: gray;
+    /* text-decoration:; */
+}
+.ModelEmi{
+    padding: 10px  0px ;
+    font-size: 10px;
+    font-weight: 600;
+}
+.Ruppee{
+    color: #e67600;
+}
+.ModelAction{
+    display: flex; 
+    justify-content: space-between;
+}
+.BuyBtn{
+    color: #fff;
+    padding: 2px 30px 4px 27px;
+    /* font-size: 10px !important; */
+    font-size: 11px;
+    background-color:#e67600 ;
+    border: none;
+    cursor: pointer;
+}
+.LearnMore{
+    color: #000;
+    /* font-size: 10px !important; */
+    text-decoration: none;
+    padding:0px 10px 0px 0px  ;
+    font-family:   'calibri', Times, 'Times New Roman', serif;
+    font-size: smaller;
+    font-weight: 520;
+}
+.LearnMore:hover{
+    text-decoration: underline;
+}
